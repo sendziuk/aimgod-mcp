@@ -5,7 +5,7 @@
   "description": "Calm day planner: tasks, habits, goals and focus, planned by your AI.",
   "websiteUrl": "https://aimgod.com",
   "repository": { "url": "https://github.com/sendziuk/aimgod-mcp", "source": "github" },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "remotes": [
     { "type": "streamable-http", "url": "https://app.aimgod.com/api/mcp" }
   ]
